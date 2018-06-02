@@ -24,6 +24,16 @@
 - [区块链技术](#区块链技术)
 - [其它](#其它)
 
+
+#### 机器学习
+| 项目                                     | 简介                                       |
+| ---- | ------------------------------- |
+|[ 机器学习教程    ](https://github.com/KeKe-Li/tutorial      )| 机器学习的算法总结和入门案例，全面解析机器学习和深度学习的算法，应用案例|
+|[机器学习速成课程 ](https://developers.google.cn/machine-learning/crash-course/ml-intro?hl=zh-cn     )|Google 制作的节奏紧凑、内容实用的机器学习简介课程|
+|[深度学习笔记目录  ](http://www.ai-start.com/dl2017/     )|深度学习的笔记和总结|
+
+
+
 #### 监控系统
 
 | 项目                                     | 简介                                       |
@@ -79,16 +89,6 @@
 |[     lain   ](    https://github.com/laincloud/lain     )|   Lain 是一个基于 docker 的 PaaS 系统。其面向技术栈多样寻求高效运维方案的高速发展中的组织，devops 人力缺乏的 startup ，个人开发者。统一高效的开发工作流，降低应用运维复杂度；在 IaaS / 私有 IDC 裸机的基础上直接提供应用开发，集成，部署，运维的一揽子解决方案。      |
 |[     OpenDCP   ](    https://github.com/weibocom/opendcp     )|   OpenDCP是一个基于Docker的云资源管理与调度平台，集镜像仓库、多云支持、服务编排、服务发现等功能与一身，支持服务池的扩缩容，其技术体系源于微博用于支持节假日及热点峰值流量的弹性调度DCP系统。OpenDCP允许利用公有云服务器搭建起适应互联网应用的IT基础设施，并且将运维的工作量降到最低。      |
 |[     Swan  ](    http://github.com/Dataman-Cloud/swan     )|   Swan 是一个基于 mesos 的新 HTTP API，使用 golang 开发。你可以使用 swan 在 mesos 集群上部署应用程序，并管理应用程序的整个生命周期，还可以使用新版本进行滚动更新，扩展应用程序，并且可以在应用程序或服务不可用时对应用程序和自动故障转移进行运行状况检查。      |
-
-
-#### 机器学习
-| 项目                                     | 简介                                       |
-| ---- | ------------------------------- |
-|[ 机器学习教程    ](https://github.com/KeKe-Li/tutorial      )| 机器学习的算法总结和入门案例|
-
-
-
-
 
 
 
