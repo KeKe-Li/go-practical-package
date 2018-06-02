@@ -6,7 +6,7 @@
 ####  目录
 - [监控系统](#监控系统)
 - [容器技术](#容器技术)
-- [PaaS工具](#paas工具)
+- [平台即服务](#平台即服务)
 - [大数据](#大数据)
 - [微服务](#微服务)
 - [CI/CD](#cicd)
@@ -64,7 +64,7 @@
 |[ sextant    ]( https://github.com/k8sp/sextant         )| sextant 提供了可以通过PXE全自动化安装初始化一个CoreOS+kubernetes集群。 |
 |[ KubeVirt    ]( http://github.com/kubevirt/kubevirt        )|KubeVirt 是一个围绕 Kubernetes 构建的虚拟机管理架构。使用 KubeVirt 可声明：创建预定义的 VM，在 Kubernetes 集群上调度 VM（启动 VM，停止 VM，删除 VM）｜
 
-# PaaS工具
+# 平台即服务
 | 项目                                     | 简介                                       |
 | ---- | ------------------------------- |
 |[ Kel                ]( https://github.com/kelproject            )| Kel 是一个开源的基于 Kubernetes 构建的 PaaS 系统，采用 Python 和 Go 语言开发。Kel 可简化管理 Web 应用发布和托管整个软件生命周期。Kel 帮助开发和运维人员轻松管理他们的应用架构，通过一组工具和组件让 K8S 使用非常简单。 |
