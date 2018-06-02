@@ -281,6 +281,8 @@
 
 
 #### 其他
+| 项目                                     | 简介                                       |
+| ---- | ------------------------------- |
 |[ kone          ]( https://github.com/xjdrew/kone           )| 可用于家庭或者企业网络的透明代理，可用来翻墙等                  |
 |[ KodeRunr      ]( https://github.com/jaxi/koderunr         )| KodeRunr (读作 code runner) 是款我在闲暇时间用Go语言编写的应用。顾名思义，你可以用它在网页上、命令行里写程序，贴代码，与此同时无需在本地安装任何编程语言。支持Ruby, Python, GO, Swift, C, Elixir等 |
 |[ godaemon      ]( https://github.com/tim1020/godaemon      )| godaemon是用来为应用增加daemon和graceful的。        |
@@ -297,7 +299,6 @@
 |[ glot          ]( https://github.com/prasmussen/glot       )| glot 是可以可以在线运行各种编程语言代码片段的平台，项目采用 Haskell Script 、Go、Erlang 和 Shell 开发，运行环境基于 Docker 容器进行。 |
 |[ Lantern       ]( https://github.com/getlantern/lantern    )| Lantern是一个点对点科学上网软件。                     |
 |[ dog-tunnel    ]( https://github.com/vzex/dog-tunnel       )| 狗洞是一个高速的 P2P 端口映射工具，同时支持Socks5代理。 0.5版后开始开源，UDP底层基于开源库KCP重写，效率大大提高，在恶劣环境下优势明显。 同时提供非P2P版本（Lite版本），两端连接过程完全不依赖中间服务器，支持加密和登陆认证，自动重连，但是需要人为确保两端能正常连通（否则请使用默认的P2P版本） |
-
 |[ LiteIDE       ]( https://github.com/visualfc/liteide      )| LiteIDE是一款开源、跨平台的轻量级Go语言集成开发环境（IDE）。     |
 |[ firefly-proxy ]( https://github.com/yinghuocho/firefly-proxy )| 穿墙工具。 GFW梯子。 提供客户端和服务端。支持多个平台， 包括linux， macos， windows ，android |
 |[ wu            ]( https://github.com/shanzi/wu/            )| 一个监听文件变化并自动执行某些操作的小工具 ，可以用于配置修改后自动重启web server |
