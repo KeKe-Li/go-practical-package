@@ -24,14 +24,12 @@
 - [区块链技术](#区块链技术)
 - [其它](#其它)
 
-
 #### 机器学习
 | 项目                                     | 简介                                       |
 | ---- | ------------------------------- |
 |[ 机器学习教程    ](https://github.com/KeKe-Li/tutorial      )| 机器学习的算法总结和入门案例，全面解析机器学习和深度学习的算法，应用案例|
 |[机器学习速成课程 ](https://developers.google.cn/machine-learning/crash-course/ml-intro?hl=zh-cn     )|Google 制作的节奏紧凑、内容实用的机器学习简介课程|
 |[深度学习笔记目录  ](http://www.ai-start.com/dl2017/     )|深度学习的笔记和总结|
-
 
 
 #### 监控系统
