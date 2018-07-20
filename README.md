@@ -1,6 +1,6 @@
 ##### golang常用的解析包大全
 <p align="center">
-<img width="60%" height="" align="center" src="assets/images/1.jpg" />
+<img width="60%" height="" align="center" src="assets/images/cheer.png" />
 </p>
 
 ####  目录
