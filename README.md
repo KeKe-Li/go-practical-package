@@ -50,7 +50,7 @@
 |[ checkup                         ]( https://github.com/sourcegraph/checkup   )| 一个分布式的无锁的站点健康状态检查工具。 支持检查http， tcp， dns等的状态 并可将结果保存在s3。 自带了一个美观的界面。 |
 |[ zabbixctl                       ]( https://github.com/kovetskiy/zabbixctl   )| Zabbixctl 是采用Zabbix服务API的命令行工具，它提供了有效的方式去查询和处理trigger 状态、主机最新数据和用户组。 |
 |[ cloudinsight-agent              ]( https://github.com/cloudinsight/cloudinsight-agent/ )| 提供可视化监控的saas平台cloudinsight开源的一个监控客户端。 Cloudinsight 探针可以收集它所在操作系统的各种指标，然后发送到 Cloudinsight 后端服务 |
-|[ owl                             ]( https://github.com/TalkingData/owl       )| OWL是TalkingData公司推出的一款开源分布式监控系统, 演示环境http://54.223.127.87/， 登录账号密码demo/demo |
+|[ owl                             ]( https://github.com/TalkingData/owl       )| OWL是TalkingData公司推出的一款开源分布式监控系统, 演示环境http://54.223.127.87/ ， 登录账号密码demo/demo |
 |[ SmartPing                            ]( https://github.com/gy-games/smartping      )| SmartPing为一个各机器(点)间间互PING检测工具，支持互PING，单向PING，绘制拓扑及报警功能。 系统设计为无中心化原则，所有的数据均存储自身点中，默认数据循环保留1个月时间，由自身点的数据绘制 出PING包 的状态，由各其他点的数据绘制 进PING包 的状态，并API接口获取其他点数据绘制整体PING拓扑图，拓扑图中存在报警功能。 |
 
 
