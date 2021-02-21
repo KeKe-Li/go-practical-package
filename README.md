@@ -51,7 +51,7 @@
 |[ checkup                         ]( https://github.com/sourcegraph/checkup   )| 一个分布式的无锁的站点健康状态检查工具。 支持检查http， tcp， dns等的状态 并可将结果保存在s3。 自带了一个美观的界面。 |
 |[ zabbixctl                       ]( https://github.com/kovetskiy/zabbixctl   )| Zabbixctl 是采用Zabbix服务API的命令行工具，它提供了有效的方式去查询和处理trigger 状态、主机最新数据和用户组。 |
 |[ cloudinsight-agent              ]( https://github.com/cloudinsight/cloudinsight-agent/ )| 提供可视化监控的saas平台cloudinsight开源的一个监控客户端。 Cloudinsight 探针可以收集它所在操作系统的各种指标，然后发送到 Cloudinsight 后端服务 |
-|[ owl                             ]( https://github.com/TalkingData/owl       )| OWL是TalkingData公司推出的一款开源分布式监控系统, 演示环境http://54.223.127.87/， 登录账号密码demo/demo |
+|[ owl                             ]( https://github.com/TalkingData/owl       )| OWL是TalkingData公司推出的一款开源分布式监控系统, 演示环境http://54.223.127.87/ ， 登录账号密码demo/demo |
 |[ SmartPing                            ]( https://github.com/gy-games/smartping      )| SmartPing为一个各机器(点)间间互PING检测工具，支持互PING，单向PING，绘制拓扑及报警功能。 系统设计为无中心化原则，所有的数据均存储自身点中，默认数据循环保留1个月时间，由自身点的数据绘制 出PING包 的状态，由各其他点的数据绘制 进PING包 的状态，并API接口获取其他点数据绘制整体PING拓扑图，拓扑图中存在报警功能。 |
 
 
@@ -114,7 +114,7 @@
 |[ Gizmo      ]( https://github.com/NYTimes/gizmo       )| 纽约时报开源的go微服务工具.提供如下特性:标准化配置和日志;可配置策略的状态监测端点;用于管理 pprof 端点和日志级别的配置;结构化日志，提供基本请求信息;端点的有用度量;优雅的停止服务; 定义期待和词汇的基本接口 |
 |[ hystrix-go ]( https://github.com/afex/hystrix-go     )| 用来隔离远程系统调用， 第三方库调用 ，服务调用， 提供熔断机制，避免雪崩效应的库， Hystrix的go 版本。 注Hystrixs是Netflix开源的一个java库 |
 |[ Gateway    ]( https://github.com/fagongzi/gateway    )| Gateway是一个使用go实现的基于HTTP的API 网关。**特性** ：API 聚合 ; 流控;  熔断; 负载均衡; 健康检查;  监控;  消息路由;  后端管理WebUI .  **能做什么**：规划更友好的URL给调用者。聚合多个API的结果返回给API调用者，利于移动端，后端可以实现原子接口。保护后端API服务不会被突发异常流量压垮。提供熔断机制，使得后端API Server具备自我恢复能力。借助消息路由能力，实现灰度发布，AB测试。 |
-|[ Fabio      ]( https://github.com/eBay/fabio          )| fabio 是 ebay 团队用 golang 开发的一个快速、简单零配置能够让 consul 部署的应用快速支持 http(s) 的负载均衡路由器。这里有一篇中文文章http://dockone.io/article/1567介绍了如何用fabio＋consul实现服务发现，负载均衡，并阐述了原理， 最后还有demo程序 |
+|[ Fabio      ]( https://github.com/eBay/fabio          )| fabio 是 ebay 团队用 golang 开发的一个快速、简单零配置能够让 consul 部署的应用快速支持 http(s) 的负载均衡路由器。这里有一篇中文文章http://dockone.io/article/1567 介绍了如何用fabio＋consul实现服务发现，负载均衡，并阐述了原理， 最后还有demo程序 |
 |[ Appdash    ]( https://github.com/sourcegraph/appdash )| go版本的分布式应用跟踪系统， 基于google dapper的原理构建     |
 |[ Jaeger    ]( https://github.com/uber/jaeger )| Jaeger是Uber的分布式跟踪系统 ，基于google dapper的原理构建， 以Cassandra作为存储层     |
 
